@@ -17,6 +17,8 @@ This project implements a speaker verification system using various machine lear
 - **Content:** Speech samples with different speeds and pitches
 ![image](https://github.com/user-attachments/assets/35489bf1-5c97-493d-b281-a83fa40c1d89)
 
+## Data-Set Access Link:
+[Link](https://www.kaggle.com/datasets/kongaevans/speaker-recognition-dataset/data)
 
 ## Exploratory Data Analysis
 
