@@ -75,5 +75,6 @@ Traditional machine learning models yielded limited accuracy, emphasizing the ne
 1. **Tim Sainburg's Noise Reduction Library:** [Link](https://doi.org/10.5281/zenodo.3243139)
 2. **Speaker Recognition Using Machine Learning Techniques by Abhishek Manoj Sharma:** [Link](https://doi.org/10.31979/etd.fhhr-49pm)
 
-
+## NOTE
+[The given repository doesn't contain model.pkl file as it exceeds the limited memory upload i.e. > 25mb]
 
